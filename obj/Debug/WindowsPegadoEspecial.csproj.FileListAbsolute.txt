@@ -1,0 +1,7 @@
+H:\WindowsPegadoEspecial\bin\Debug\WindowsPegadoEspecial.exe.config
+H:\WindowsPegadoEspecial\bin\Debug\WindowsPegadoEspecial.exe
+H:\WindowsPegadoEspecial\bin\Debug\WindowsPegadoEspecial.pdb
+H:\WindowsPegadoEspecial\obj\Debug\WindowsPegadoEspecial.csprojAssemblyReference.cache
+H:\WindowsPegadoEspecial\obj\Debug\WindowsPegadoEspecial.csproj.CoreCompileInputs.cache
+H:\WindowsPegadoEspecial\obj\Debug\WindowsPegadoEspecial.exe
+H:\WindowsPegadoEspecial\obj\Debug\WindowsPegadoEspecial.pdb
